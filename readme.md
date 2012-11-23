@@ -5,10 +5,10 @@ Vanlig text!
 
 ## en onumrerad lista
 
-+first
-+second
-+third
-+forth
++ first
++ second
++ third
++ forth
 
 ## numredrad lista
 
@@ -18,3 +18,6 @@ Vanlig text!
 4. saken
 5. saken
 
+### a link
+
+[antons sida](minit.nu)
